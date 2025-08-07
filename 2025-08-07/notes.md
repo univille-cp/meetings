@@ -119,3 +119,12 @@ Saída formatada (Números decimais, N casas de precisão)
 
 Pulo de linha no final de arquivo (\n)
 
+## Para investigar
+
+Linguagens utilizadas na fase nacional (até onde conferi apenas c/c++)
+
+## Tarefas
+
+Imprimir códigos, livros para levar no evento.
+
+Criar exemplos de usos de estruturas de dados/algoritmos clássicos (fila, pilha, hashmap, bfs, dfs, dijiskra, linkedlist, arvores binárias, busca binária, quicksort/mergesort). Realizar o uso máximo da linguagem padrão.
