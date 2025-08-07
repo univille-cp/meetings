@@ -16,7 +16,17 @@ https://icpc.global
 * Python
 * Java
 
-## Problemas de estudo
+## Problemas de estudo da primeira fase
+
+Para Hoje: 2024(A, E, F) 2023(A,F) 2022(I,A), 2021(K)
+
+Prova 2024: https://maratona.sbc.org.br/hist/2024/primfase24/contest-pf2024/maratona.pdf
+
+Prova 2022: https://maratona.sbc.org.br/hist/2022/primfase22/reports/problems/maratona.pdf
+
+Prova 2023: https://maratona.sbc.org.br/hist/2023/primfase23/contest/maratona.pdf
+
+Prova 2021: https://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf
 
 ### 2024
 
