@@ -126,33 +126,11 @@ https://icpc.global
     <tr><td>L balloon</td><td>63</td><td>1</td><td>2%</td></tr>
   </tbody>
 </table>
-<style>
-  table {
-    border-collapse: collapse;
-    width: 70%;
-    margin-bottom: 40px;
-  }
-  th, td {
-    border: 1px solid #999;
-    padding: 8px 12px;
-    text-align: center;
-  }
-  th {
-    background-color: #ccc;
-  }
-  .highlight {
-    background-color: #fff59d; /* amarelo claro */
-    font-weight: bold;
-  }
-  h3 {
-    font-family: Arial, sans-serif;
-  }
-</style>
 
 
 ## Pontos de atenção
 
-Leitura rápida dos dados (No java utilizar o FastScanner)
+Leitura rápida dos dados (No java utilizar o FastScanner): https://github.com/detel/Faster-InputOutput-Implementations/tree/master
 
 Saída formatada (Números decimais, N casas de precisão)
 
