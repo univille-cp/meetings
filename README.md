@@ -2,7 +2,7 @@
 
 Repositório com os conteúdos das reuniões do grupo.
 
-Últimas reuniões
+## Lista de reuniões
 
 | Data       | Assunto                   | Problemas Resolvidos         |
 |------------|---------------------------|-------------------------------|

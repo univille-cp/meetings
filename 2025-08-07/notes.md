@@ -18,114 +18,85 @@ https://icpc.global
 
 ## Problemas de estudo
 
-<h3>2024</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Problema</th>
-      <th>Total</th>
-      <th>Aceitos</th>
-      <th>% Aceitos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="highlight"><td>E balloon</td><td>994</td><td>704</td><td>71%</td></tr>
-    <tr class="highlight"><td>F balloon</td><td>956</td><td>631</td><td>66%</td></tr>
-    <tr class="highlight"><td>A balloon</td><td>1791</td><td>813</td><td>45%</td></tr>
-    <tr class="highlight"><td>L balloon</td><td>1349</td><td>288</td><td>21%</td></tr>
-    <tr><td>B balloon</td><td>185</td><td>42</td><td>23%</td></tr>
-    <tr><td>C balloon</td><td>91</td><td>15</td><td>16%</td></tr>
-    <tr><td>D balloon</td><td>14</td><td>3</td><td>21%</td></tr>
-    <tr><td>G balloon</td><td>199</td><td>0</td><td>0%</td></tr>
-    <tr><td>H balloon</td><td>613</td><td>83</td><td>14%</td></tr>
-    <tr><td>I balloon</td><td>583</td><td>37</td><td>6%</td></tr>
-    <tr><td>J balloon</td><td>22</td><td>0</td><td>0%</td></tr>
-    <tr><td>K balloon</td><td>814</td><td>113</td><td>14%</td></tr>
-  </tbody>
-</table>
+### 2024
 
-<h3>2023</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Problema</th>
-      <th>Total</th>
-      <th>Aceitos</th>
-      <th>% Aceitos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="highlight"><td>A balloon</td><td>845</td><td>671</td><td>79%</td></tr>
-    <tr class="highlight"><td>F balloon</td><td>2175</td><td>519</td><td>24%</td></tr>
-    <tr class="highlight"><td>L balloon</td><td>1611</td><td>241</td><td>15%</td></tr>
-    <tr class="highlight"><td>M balloon</td><td>296</td><td>112</td><td>38%</td></tr>
-    <tr><td>B balloon</td><td>28</td><td>8</td><td>29%</td></tr>
-    <tr><td>C balloon</td><td>302</td><td>66</td><td>22%</td></tr>
-    <tr><td>D balloon</td><td>102</td><td>6</td><td>6%</td></tr>
-    <tr><td>E balloon</td><td>1193</td><td>43</td><td>4%</td></tr>
-    <tr><td>G balloon</td><td>346</td><td>69</td><td>20%</td></tr>
-    <tr><td>H balloon</td><td>85</td><td>16</td><td>19%</td></tr>
-    <tr><td>I balloon</td><td>704</td><td>128</td><td>18%</td></tr>
-    <tr><td>J balloon</td><td>16</td><td>1</td><td>6%</td></tr>
-    <tr><td>K balloon</td><td>43</td><td>7</td><td>16%</td></tr>
-  </tbody>
-</table>
+| Problema  | Total | Aceitos | % Aceitos |
+|-----------|-------|---------|-----------|
+| A balloon | 1791  | 813     | 45%       |
+| B balloon | 185   | 42      | 23%       |
+| C balloon | 91    | 15      | 16%       |
+| D balloon | 14    | 3       | 21%       |
+| E balloon | 994   | 704     | 71%       |
+| F balloon | 956   | 631     | 66%       |
+| G balloon | 199   | 0       | 0%        |
+| H balloon | 613   | 83      | 14%       |
+| I balloon | 583   | 37      | 6%        |
+| J balloon | 22    | 0       | 0%        |
+| K balloon | 814   | 113     | 14%       |
+| L balloon | 1349  | 288     | 21%       |
 
-<h3>2022</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Problema</th>
-      <th>Total</th>
-      <th>Aceitos</th>
-      <th>% Aceitos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="highlight"><td>I balloon</td><td>681</td><td>529</td><td>78%</td></tr>
-    <tr class="highlight"><td>A balloon</td><td>776</td><td>485</td><td>63%</td></tr>
-    <tr class="highlight"><td>B balloon</td><td>11</td><td>8</td><td>73%</td></tr>
-    <tr class="highlight"><td>D balloon</td><td>380</td><td>112</td><td>29%</td></tr>
-    <tr><td>C balloon</td><td>65</td><td>24</td><td>37%</td></tr>
-    <tr><td>E balloon</td><td>2056</td><td>141</td><td>7%</td></tr>
-    <tr><td>F balloon</td><td>348</td><td>93</td><td>27%</td></tr>
-    <tr><td>G balloon</td><td>23</td><td>5</td><td>22%</td></tr>
-    <tr><td>H balloon</td><td>107</td><td>40</td><td>37%</td></tr>
-    <tr><td>J balloon</td><td>1588</td><td>234</td><td>15%</td></tr>
-    <tr><td>K balloon</td><td>3</td><td>0</td><td>0%</td></tr>
-    <tr><td>L balloon</td><td>46</td><td>11</td><td>24%</td></tr>
-    <tr><td>M balloon</td><td>56</td><td>5</td><td>9%</td></tr>
-    <tr><td>N balloon</td><td>290</td><td>45</td><td>16%</td></tr>
-  </tbody>
-</table>
+---
 
-<h3>2021</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Problema</th>
-      <th>Total</th>
-      <th>Aceitos</th>
-      <th>% Aceitos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="highlight"><td>K balloon</td><td>1669</td><td>387</td><td>23%</td></tr>
-    <tr class="highlight"><td>H balloon</td><td>1102</td><td>301</td><td>27%</td></tr>
-    <tr class="highlight"><td>M balloon</td><td>345</td><td>72</td><td>21%</td></tr>
-    <tr class="highlight"><td>N balloon</td><td>873</td><td>78</td><td>9%</td></tr>
-    <tr><td>C balloon</td><td>530</td><td>91</td><td>17%</td></tr>
-    <tr><td>B balloon</td><td>254</td><td>10</td><td>4%</td></tr>
-    <tr><td>D balloon</td><td>59</td><td>4</td><td>7%</td></tr>
-    <tr><td>E balloon</td><td>1008</td><td>149</td><td>15%</td></tr>
-    <tr><td>G balloon</td><td>361</td><td>41</td><td>11%</td></tr>
-    <tr><td>I balloon</td><td>0</td><td>0</td><td>0%</td></tr>
-    <tr><td>J balloon</td><td>3</td><td>0</td><td>0%</td></tr>
-    <tr><td>A balloon</td><td>63</td><td>0</td><td>0%</td></tr>
-    <tr><td>F balloon</td><td>16</td><td>0</td><td>0%</td></tr>
-    <tr><td>L balloon</td><td>63</td><td>1</td><td>2%</td></tr>
-  </tbody>
-</table>
+### 2023
+
+| Problema  | Total | Aceitos | % Aceitos |
+|-----------|-------|---------|-----------|
+| A balloon | 845   | 671     | 79%       |
+| B balloon | 28    | 8       | 29%       |
+| C balloon | 302   | 66      | 22%       |
+| D balloon | 102   | 6       | 6%        |
+| E balloon | 1193  | 43      | 4%        |
+| F balloon | 2175  | 519     | 24%       |
+| G balloon | 346   | 69      | 20%       |
+| H balloon | 85    | 16      | 19%       |
+| I balloon | 704   | 128     | 18%       |
+| J balloon | 16    | 1       | 6%        |
+| K balloon | 43    | 7       | 16%       |
+| L balloon | 1611  | 241     | 15%       |
+| M balloon | 296   | 112     | 38%       |
+
+---
+
+### 2022
+
+| Problema  | Total | Aceitos | % Aceitos |
+|-----------|-------|---------|-----------|
+| A balloon | 776   | 485     | 63%       |
+| B balloon | 11    | 8       | 73%       |
+| C balloon | 65    | 24      | 37%       |
+| D balloon | 380   | 112     | 29%       |
+| E balloon | 2056  | 141     | 7%        |
+| F balloon | 348   | 93      | 27%       |
+| G balloon | 23    | 5       | 22%       |
+| H balloon | 107   | 40      | 37%       |
+| I balloon | 681   | 529     | 78%       |
+| J balloon | 1588  | 234     | 15%       |
+| K balloon | 3     | 0       | 0%        |
+| L balloon | 46    | 11      | 24%       |
+| M balloon | 56    | 5       | 9%        |
+| N balloon | 290   | 45      | 16%       |
+
+---
+
+### 2021
+
+| Problema  | Total | Aceitos | % Aceitos |
+|-----------|-------|---------|-----------|
+| A balloon | 63    | 0       | 0%        |
+| B balloon | 254   | 10      | 4%        |
+| C balloon | 530   | 91      | 17%       |
+| D balloon | 59    | 4       | 7%        |
+| E balloon | 1008  | 149     | 15%       |
+| F balloon | 16    | 0       | 0%        |
+| G balloon | 361   | 41      | 11%       |
+| H balloon | 1102  | 301     | 27%       |
+| I balloon | 0     | 0       | 0%        |
+| J balloon | 3     | 0       | 0%        |
+| K balloon | 1669  | 387     | 23%       |
+| L balloon | 63    | 1       | 2%        |
+| M balloon | 345   | 72      | 21%       |
+| N balloon | 873   | 78      | 9%        |
+
 
 
 ## Pontos de atenção
