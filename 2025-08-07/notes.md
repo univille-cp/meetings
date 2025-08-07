@@ -21,12 +21,16 @@ https://icpc.global
 Para Hoje: 2024(A, E, F) 2023(A,F) 2022(I,A), 2021(K)
 
 Prova 2024: https://maratona.sbc.org.br/hist/2024/primfase24/contest-pf2024/maratona.pdf
-
-Prova 2022: https://maratona.sbc.org.br/hist/2022/primfase22/reports/problems/maratona.pdf
+CodeForce: https://codeforces.com/gym/105327
 
 Prova 2023: https://maratona.sbc.org.br/hist/2023/primfase23/contest/maratona.pdf
+CodeForce: https://codeforces.com/gym/104555
+
+Prova 2022: https://maratona.sbc.org.br/hist/2022/primfase22/reports/problems/maratona.pdf
+CodeForce: https://codeforces.com/gym/103960
 
 Prova 2021: https://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf
+CodeForce: https://codeforces.com/gym/103388
 
 ### 2024
 
