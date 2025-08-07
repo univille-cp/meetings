@@ -113,6 +113,8 @@ Prova 2021: https://maratona.sbc.org.br/hist/2021/primeira-fase/maratona.pdf
 
 Leitura rápida dos dados (No java utilizar o FastScanner): https://github.com/detel/Faster-InputOutput-Implementations/tree/master
 
+Teste a leitura rápida na questão: K - KIARA is a Recursive Acronym - Fase Nacional 2021.
+
 Saída formatada (Números decimais, N casas de precisão)
 
 Pulo de linha no final de arquivo (\n)
